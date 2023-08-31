@@ -39,3 +39,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # ~~This is very confusing.~~      
 ## This is not so confusing.
 ### This is not confusing. 
+
+
+# Sarah Feng's First CS193 Homework
+Some of my favorite things about CS193:
+- It only has one lecture per week
+- Lectures are quite casual
+- The slides in lectures are more interesting than most of my other lectures
